@@ -51,5 +51,5 @@ studentList.append(Student_monster('Fungus', '005', 'C'))
 
 # Iterate over the student list and print
 # for students in studentList:
-#     print(f'Name: {students.names}, Uni_ID: {students.uni_id}')
+#    print(f'Name: {students.names}, Uni_ID: {students.uni_id}')
 
